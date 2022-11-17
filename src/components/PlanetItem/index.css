@@ -1,0 +1,22 @@
+.slider-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.planet-image {
+  height: 300px;
+  width: 400px;
+  margin: auto;
+}
+
+.heading {
+  color: white;
+}
+
+.main-heading {
+  color: #05acff;
+  text-align: center;
+}
